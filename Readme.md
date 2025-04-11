@@ -2,7 +2,7 @@
 
 # **Text project**
 
-## ** Medication Recommender**
+## **Medication Recommender**
 
 This project leverages Natural Language Processing (NLP) and Deep Learning which will allow us to extract relevant information from the comments and assign appropriate classifications. Through this approach, we seek to facilitate medical decision making, optimize treatments and improve patients' experience with prescribed medications.
 
